@@ -9,17 +9,15 @@ function checkReality() {
 
     let responses = [
 
-        "ngapain tulis pesan, kayak dibaca aja 🥲",
         "ayo lanjut ngebadutnya 🤡",
         "wkwkwk crushnya gak suka balik ya 😭",
-        "tunggu... kayaknya dia suka kamu—eh gak deng 😭",
         "kamu mikirin dia, dia mikirin crushnya 😶",
-        "dia lagi sibuk sama hidupnya sendiri 🙂",
+        "tenang, dia gak kepikiran kamu sama sekali 😶",
         "kamu overthinking, dia biasa aja",
         "dia mungkin lagi chat orang lain sekarang 💔",
         "kamu berharap, dia... enggak 🫠",
         "cieeee berharap sendirian ya",
-        "dia juga mikirin kamu (dalam mimpi)"
+        "kamu nunggu dia, dia nunggu orang lain 💔"
         
     ];
 
