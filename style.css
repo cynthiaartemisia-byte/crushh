@@ -40,3 +40,24 @@ button:hover {
     font-weight: bold;
     color: #ffd6e0;
 }
+
+@media (max-width: 600px) {
+    textarea {
+        width: 95%;
+        height: 100px;
+    }
+
+    button {
+        width: 90%;
+        font-size: 14px;
+    }
+
+    #result {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    body {
+        padding: 15px;
+    }
+}
